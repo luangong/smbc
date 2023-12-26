@@ -1,4 +1,4 @@
-﻿package com.smbc.graphics 
+package com.smbc.graphics 
 {
 	import com.smbc.main.*;
 	import com.smbc.level.Level;

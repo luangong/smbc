@@ -1,4 +1,4 @@
-﻿/* Base64 library for ActionScript 3.0. 
+/* Base64 library for ActionScript 3.0. 
 * Based on: Ma Bingyao code.
 * Optimized by: Jean-Philippe Auclair  / jpauclair.wordpress.com
 * Copyright (C) 2007 Ma Bingyao <andot@ujn.edu.cn> 

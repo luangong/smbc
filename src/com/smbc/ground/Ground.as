@@ -1,4 +1,4 @@
-﻿package com.smbc.ground
+package com.smbc.ground
 {
 	import com.chewtinfoil.utils.StringUtils;
 	import com.smbc.characters.*;

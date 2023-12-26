@@ -1,4 +1,4 @@
-﻿package com.smbc.level 
+package com.smbc.level 
 {
 	import com.explodingRabbit.utils.CustomTimer;
 	import com.smbc.data.Cheats;

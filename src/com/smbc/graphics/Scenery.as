@@ -1,4 +1,4 @@
-﻿package com.smbc.graphics
+package com.smbc.graphics
 {
 	import com.explodingRabbit.display.CustomMovieClip;
 	import com.explodingRabbit.utils.CustomDictionary;

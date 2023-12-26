@@ -1,4 +1,4 @@
-﻿package com.smbc.data
+package com.smbc.data
 {
 
 	import com.smbc.characters.Sophia;

@@ -1,4 +1,4 @@
-﻿package com.smbc.enemies
+package com.smbc.enemies
 {
 
 	import com.smbc.characters.*;

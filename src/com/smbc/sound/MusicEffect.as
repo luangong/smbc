@@ -1,4 +1,4 @@
-﻿package com.smbc.sound {
+package com.smbc.sound {
 	import flash.media.SoundTransform;
 	import flash.utils.ByteArray;
 	

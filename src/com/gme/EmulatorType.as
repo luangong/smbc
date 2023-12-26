@@ -1,4 +1,4 @@
-﻿package com.gme 
+package com.gme 
 {
 	public class EmulatorType
 	{

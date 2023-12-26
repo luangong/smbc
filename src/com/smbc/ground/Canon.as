@@ -1,4 +1,4 @@
-﻿package com.smbc.ground
+package com.smbc.ground
 {
 	import com.explodingRabbit.utils.CustomDictionary;
 	import com.explodingRabbit.utils.CustomTimer;

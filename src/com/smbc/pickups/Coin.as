@@ -1,4 +1,4 @@
-﻿package com.smbc.pickups 
+package com.smbc.pickups 
 {
 	import com.explodingRabbit.display.CustomMovieClip;
 	import com.explodingRabbit.utils.CustomDictionary;

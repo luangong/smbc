@@ -1,4 +1,4 @@
-﻿package com.smbc.projectiles 
+package com.smbc.projectiles 
 {
 	import com.explodingRabbit.cross.gameplay.statusEffects.StatusProperty;
 	import com.explodingRabbit.utils.CustomDictionary;

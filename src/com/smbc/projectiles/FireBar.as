@@ -1,4 +1,4 @@
-﻿package com.smbc.projectiles
+package com.smbc.projectiles
 {
 	import com.explodingRabbit.display.CustomMovieClip;
 	import com.explodingRabbit.utils.CustomTimer;
