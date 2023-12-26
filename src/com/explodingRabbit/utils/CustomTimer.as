@@ -29,7 +29,7 @@ package com.explodingRabbit.utils
 		{
 			if((currentCount < repeatCount) || (repeatCount == 0))
 			{
-				delay = _initialDelay; // added to “reset” timer
+				delay = _initialDelay; // added to "reset" timer
 				_paused = false;
 				_startTime = new Date().time;
 				super.start();

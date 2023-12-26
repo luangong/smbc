@@ -319,7 +319,7 @@ package com.smbc.messageBoxes
 			{
 			 	var oldWidth:Number = width;
 			 	var oldHeight:Number = height - contentOverflowHeight*scaleX;
-			 	scaleX +=  SCALE_INC*dt;
+			 	scaleX += SCALE_INC*dt;
 				if (scaleX > 1)
 					scaleX = 1;
 			 	scaleY = scaleX;
@@ -366,7 +366,7 @@ package com.smbc.messageBoxes
 		{
 			var oldWidth:Number = width;
 		 	var oldHeight:Number = height;
-		 	scaleX -=  SCALE_INC*dt;
+		 	scaleX -= SCALE_INC*dt;
 		 	scaleY = scaleX;
 		 	var dWidth:Number = (oldWidth - width)*.5;
 		 	var dHeight:Number = (oldHeight - height)*.5;
